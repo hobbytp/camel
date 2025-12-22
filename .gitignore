@@ -433,3 +433,6 @@ benchmark/gaia/results.jsonl
 .container/.env
 
 .env
+
+.serena/
+GEMINI.md
